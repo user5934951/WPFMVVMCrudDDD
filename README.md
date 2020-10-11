@@ -1,6 +1,6 @@
 # WPF MVVM Crud With Domain Driven Design (DDD)
 
-This is crud example in WPF with Domain Driven Design (DDD) using Entity Framework Code First.
+This is crud example in WPF with Domain Driven Design (DDD) using Entity Framework Code First. Dependency inject is achieved with Ninject.
 
 ## Getting Started
 
