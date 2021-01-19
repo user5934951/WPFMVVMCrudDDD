@@ -10,9 +10,9 @@ This is crud example in WPF with MVVM and Domain Driven Design (DDD) using Entit
 4. In main project (WPFMVVMCrudDDD) change DefaultConnection string in App.config file. (this connection string is used by application).
 5. Run the project.
 
-![screenshot](https://github.com/user5934951/WPFMVVMCrudDDD/blob/master/Capture1.PNG?raw=true)
+![screenshot](https://github.com/zsharadze/WPFMVVMCrudDDD/blob/master/Capture1.PNG?raw=true)
 
-![screenshot](https://github.com/user5934951/WPFMVVMCrudDDD/blob/master/Capture2.PNG?raw=true)
+![screenshot](https://github.com/zsharadze/WPFMVVMCrudDDD/blob/master/Capture2.PNG?raw=true)
 
 ###### About me
 My name is Zviad Sharadze. I'm .Net Developer from Tbilisi, Georgia. I'm Microsoft Certified Professional.
