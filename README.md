@@ -15,4 +15,4 @@ This is crud example in WPF with MVVM and Domain Driven Design (DDD) using Entit
 ![screenshot](https://github.com/zsharadze/WPFMVVMCrudDDD/blob/master/Capture2.PNG?raw=true)
 
 ###### About me
-My name is Zviad Sharadze. I'm .Net Developer from Tbilisi, Georgia. I'm Microsoft Certified Professional.
+My name is Zviad Sharadze. I'm .Net Developer from Tbilisi, Georgia.
