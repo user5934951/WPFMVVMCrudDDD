@@ -1,14 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
-using System.Configuration;
 using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using System.Windows.Data;
 using System.Windows.Input;
 using WPFMVVMCrudDDD.Domain.Contracts;
 using WPFMVVMCrudDDD.Domain.Models;
@@ -30,14 +24,19 @@ namespace WPFMVVMCrudDDD.ViewModel
         public string AddName
         {
             get { return _addName; }
-            set { _addName = value; 
-                OnPropertyChanged("AddName"); }
+            set
+            {
+                _addName = value;
+                OnPropertyChanged("AddName");
+            }
         }
 
         public string AddCount
         {
             get { return _addCount; }
-            set { _addCount = value;
+            set
+            {
+                _addCount = value;
                 OnPropertyChanged("AddCount");
             }
         }

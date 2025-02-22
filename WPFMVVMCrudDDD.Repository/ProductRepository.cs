@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using WPFMVVMCrudDDD.Domain.Models;
 using WPFMVVMCrudDDD.Domain.Repositories;
-using WPFMVVMCrudDDD.Repository;
 
 namespace WPFMVVMCrudDDD.Repository
 {

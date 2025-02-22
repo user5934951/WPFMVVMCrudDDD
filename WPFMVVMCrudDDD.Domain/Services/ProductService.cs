@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 using WPFMVVMCrudDDD.Domain.Contracts;
 using WPFMVVMCrudDDD.Domain.Models;
 using WPFMVVMCrudDDD.Domain.Repositories;

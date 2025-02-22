@@ -32,11 +32,4 @@ namespace WPFMVVMCrudDDD
             MessageBox.Show("Updated","", MessageBoxButton.OK, MessageBoxImage.Information);
         }
     }
-
-    public class MyClass
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public int Count { get; set; }
-    }
 }
